@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Data.xml" />
+    <None Remove="pngkey.com-photoshop-logo-png-177601.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\Data.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pngkey.com-photoshop-logo-png-177601.png" />
+  </ItemGroup>
+
+</Project>

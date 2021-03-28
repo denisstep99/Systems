@@ -1,0 +1,10 @@
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\deniska\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb

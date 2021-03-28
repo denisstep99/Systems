@@ -1,0 +1,10 @@
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csprojAssemblyReference.cache
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\deniska\source\repos\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb

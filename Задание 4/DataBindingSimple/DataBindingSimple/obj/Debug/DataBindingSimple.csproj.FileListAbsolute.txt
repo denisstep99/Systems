@@ -1,0 +1,13 @@
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\bin\Debug\System.Data.SqlClient.dll
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\bin\Debug\System.Data.SqlClient.xml
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csprojAssemblyReference.cache
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CopyComplete
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Users\deniska\source\repos\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb

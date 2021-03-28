@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingDataSetXml", "SavingDataSetXml\SavingDataSetXml.csproj", "{204D7CCF-B581-432E-A87B-7F165BCC7A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204D7CCF-B581-432E-A87B-7F165BCC7A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204D7CCF-B581-432E-A87B-7F165BCC7A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204D7CCF-B581-432E-A87B-7F165BCC7A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204D7CCF-B581-432E-A87B-7F165BCC7A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60052592-B422-476E-84AB-A91F8BE3F7FC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "//nsiWXt4elZf/XwoBJceUejbU7+2h/EMvQOjCJsIgWOOHyrfdXz7qUXmV3Q/8WRCqxddRalGjdCdMgxvnlEzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deniska\\source\\repos\\WPF Toolkit\\WPF Toolkit\\WPF Toolkit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deniska\\.nuget\\packages\\system.windows.controls.datavisualization.toolkit\\4.0.0\\system.windows.controls.datavisualization.toolkit.4.0.0.nupkg.sha512",
+    "C:\\Users\\deniska\\.nuget\\packages\\wpftoolkit\\3.5.50211.1\\wpftoolkit.3.5.50211.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"System.Windows.Controls.DataVisualization.Toolkit 4.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "System.Windows.Controls.DataVisualization.Toolkit",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"WPFToolkit 3.5.50211.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "WPFToolkit",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

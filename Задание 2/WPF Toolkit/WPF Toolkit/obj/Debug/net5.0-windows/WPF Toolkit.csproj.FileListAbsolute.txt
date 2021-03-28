@@ -1,0 +1,28 @@
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.csprojAssemblyReference.cache
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit_MarkupCompile.cache
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit_MarkupCompile.lref
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\WPF Toolkit.exe
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\WPF Toolkit.deps.json
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\WPF Toolkit.runtimeconfig.json
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\WPF Toolkit.runtimeconfig.dev.json
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\WPF Toolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\ref\WPF Toolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\WPF Toolkit.pdb
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\bin\Debug\net5.0-windows\WPFToolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.g.resources
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.AssemblyInfoInputs.cache
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.AssemblyInfo.cs
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.csproj.CopyComplete
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\ref\WPF Toolkit.dll
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.pdb
+C:\Users\deniska\source\repos\WPF Toolkit\WPF Toolkit\obj\Debug\net5.0-windows\WPF Toolkit.genruntimeconfig.cache
